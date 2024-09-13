@@ -4,12 +4,12 @@
 Este proyecto tiene como objetivo desarrollar un asistente virtual capaz de [describir las funcionalidades principales del asistente]. 
 
 ## Equipo
-* **Renzo Manuel Yromaimgianfranco:** [Su rol en el proyecto, por ejemplo: Desarrollador Backend]
-* **[Nombre del otro miembro del equipo]:** [Su rol en el proyecto, por ejemplo: Desarrollador Frontend]
+* **Renzo Manuel:** Desarrollador y documentador
+* **Romaim Gianfranco:** Desarrollador y documentador
 
 ## Tecnologías Utilizadas
-* **Django:** Framework web para el desarrollo del backend.
-* **[Otras tecnologías utilizadas, por ejemplo: React, PostgreSQL, etc.]**
+* **Django:** Framework web para el desarrollo del BACKEND.
+* **Angular:** Framework web para el desarrollo FRONTEND
 
 ## Estructura del Proyecto
 * **backend:** Contiene la lógica del servidor y la base de datos.
@@ -19,4 +19,4 @@ Este proyecto tiene como objetivo desarrollar un asistente virtual capaz de [des
 ## Instrucciones de Instalación
 1. **Clonar el repositorio:**
    ```bash
-   git clone https://[tu_repositorio]
+   git clone https://https://github.com/RTalledo27/asistenteVirtual.git
